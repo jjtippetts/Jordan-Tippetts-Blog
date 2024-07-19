@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Jordan Tippetts Blog
 description: Life Updates
+
+baseurl: ""
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
