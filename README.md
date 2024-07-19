@@ -1,1 +1,1 @@
-# Jordan-Tippetts-Blog
+# Jordan Tippetts Blog
